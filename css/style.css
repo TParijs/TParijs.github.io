@@ -37,3 +37,7 @@ body {
 .lighten {
     color: rgb(5, 67, 6);
 }
+
+.link-button{
+    text-decoration: none;
+}
