@@ -16,19 +16,19 @@ body {
     background-size: contain;
     margin: auto;
     margin-top: 40px;
-    width: 75vw;
+    width: 50vw;
 
 }
 
 .set-margin {
-    margin-top: 30vh;
+    margin-top: 20vh;
 }
 .text-dark-green{
     color: rgb(5, 67, 6); 
 }
 .text {
 
-    font: bolder 12vw "Alfa Slab One";
+    font: bolder 10vw "Alfa Slab One";
     text-align: center;
     margin: 0;
     border: 4px solid;
