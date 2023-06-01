@@ -1,6 +1,7 @@
 body {
     background-color: #1C221F;
     min-height: 100vh;
+    overflow-x: hidden;
 }
 
 .bg-color-green {
