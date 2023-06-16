@@ -1,43 +1,3 @@
-
-
-.bg-color-green {
-    background-color: #04E824;
-}
-
-.dropdown {
-    border-color: black;
-}
-
-.backdrop {
-    background: #383c3945;
-    background-size: contain;
-    margin: auto;
-    margin-top: 40px;
-    width: 60vw;
-
-}
-
-.set-margin {
-    margin-top: 20vh;
-}
-.text-dark-green{
-    color: rgb(1, 22, 2); 
-}
-.text {
-    font: bolder 10vw "Alfa Slab One";
-    text-align: center;
-    margin: 0;
-    border: 4px solid;
-}
-
-.lighten {
-    color: rgb(0, 255, 4);
-}
-
-.link-button{
-    text-decoration: none;
-}
-
 body {
     background-color:#000;
     margin:0;
@@ -120,3 +80,8 @@ body {
       opacity:0;
     }
   }
+
+  
+.bg-color-green {
+    background-color: #04E824;
+}
