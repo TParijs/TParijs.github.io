@@ -19,3 +19,9 @@ body {
     background-color: #04E824;
   }
   
+  .card-w {
+    min-height: 200px;
+    min-width: 300px;
+    margin-right: 5px;
+    
+  }
